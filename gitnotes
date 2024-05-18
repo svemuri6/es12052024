@@ -151,5 +151,14 @@ git stash pop ==> It brings stashed file back to working directory and clears st
 git stash apply ==> It brings stashed file back to working directory and does not clear stashing area
 
 
+scenerio 14: Working with remote repository
+git clone <repository url>  ==> execute to create full copy of remote repo in my local
+git push originmain # origin is a variable point to remote repo url
+
+scenerio 15:
+git developer token
+
+
+
 
 
