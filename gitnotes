@@ -158,6 +158,13 @@ git push originmain # origin is a variable point to remote repo url
 scenerio 15:
 git developer token
 
+scenerio 16:
+git pull is used to pull updated code from remote to local
+
+scenerio 17:
+git fetch will just show what will be pulled when pull command is executed
+pull=fetch+merge
+
 
 
 
